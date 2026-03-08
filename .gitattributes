@@ -1,0 +1,4 @@
+data/offshore_wind_1979-2017.csv filter=lfs diff=lfs merge=lfs -text
+data/onshore_wind_1979-2017.csv filter=lfs diff=lfs merge=lfs -text
+data/pv_optimal.csv filter=lfs diff=lfs merge=lfs -text
+data/pv_rooftop.csv filter=lfs diff=lfs merge=lfs -text
